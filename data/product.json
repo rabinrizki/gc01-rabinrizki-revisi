@@ -1,0 +1,203 @@
+[
+    {      
+    "id": 1,
+    "name": "Landskrona",
+    "description": "3-seat sofa, with chaise longue/Djuparp dark green/wood",
+    "price": 17500000,
+    "stock": 4,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/905/0990561_PE819052_S3.webp",
+    "categoryId": 1,
+    "authorId": 1
+    },
+    {      
+    "id": 2,
+    "name": "Applaryd",
+    "description": "4-seat sofa with chaise longue, Djuparp dark blue",
+    "price": 175022000,
+    "stock": 5,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/104/1010447_PE828072_S3.webp",
+    "categoryId": 1,
+    "authorId": 1
+    },
+    {      
+    "id": 3,
+    "name": "Diyard",
+    "description": "2-seat sofa, Blekinge white comfortable for you",
+    "price": 5680000,
+    "stock": 10,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/506/0950612_PE800541_S3.webp",
+    "categoryId": 1,
+    "authorId": 2
+    },
+    {      
+    "id": 4,
+    "name": "Krusnarl",
+    "description": "2,5-seat mod sofa w chaise longue, left/Samsala grey-beige",
+    "price": 22500000,
+    "stock": 4,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/095/1109586_PE870074_S3.webp",
+    "categoryId": 1,
+    "authorId": 2
+    },
+    {      
+    "id": 5,
+    "name": "Medish",
+    "description": "3-seat section, Viarp beige/brown like sugar candy",
+    "price": 8960000,
+    "stock": 15,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/028/0802813_PE768605_S3.webp",
+    "categoryId": 1,
+    "authorId": 3
+    },
+    {      
+    "id": 6,
+    "name": "Songesand",
+    "description": "chest of 6 drawers, brown, 82x126 cm, like browndish",
+    "price": 3999000,
+    "stock": 4,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/522/0552205_PE658938_S3.webp",
+    "categoryId": 2,
+    "authorId": 3
+    },
+    {      
+    "id": 7,
+    "name": "Vihals",
+    "description": "storage combination, white, 165x47x90 cm, good guality",
+    "price": 5498000,
+    "stock": 16,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/136/1113603_PE871503_S3.webp",
+    "categoryId": 2,
+    "authorId": 1
+    },
+    {      
+    "id": 8,
+    "name": "Hauga",
+    "description": "chest of 3 drawers, beige, 70x84 cm, cool for work",
+    "price": 1756000,
+    "stock": 4,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/490/0949011_PE799469_S3.webp",
+    "categoryId": 2,
+    "authorId": 1
+    },
+    {      
+    "id": 9,
+    "name": "Malm",
+    "description": "chest of 3 drawers, black-brown, 80x78 cm, comfrotable",
+    "price": 2499900,
+    "stock": 10,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/848/0484870_PE621337_S3.webp",
+    "categoryId": 2,
+    "authorId": 2
+    },
+    {      
+    "id": 10,
+    "name": "Rast",
+    "description": "chest of 3 drawers, pine, 62x70 cm, comfortable",
+    "price": 3990000,
+    "stock": 5,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/511/0651178_PE706790_S3.webp",
+    "categoryId": 2,
+    "authorId": 3
+    },
+    {      
+    "id": 11,
+    "name": "Jokmok",
+    "description": "table and 4 chairs, antique stain, full good quality",
+    "price": 3990000,
+    "stock": 7,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/369/0736929_PE740809_S3.webp",
+    "categoryId": 3,
+    "authorId": 1
+    },
+    {      
+    "id": 12,
+    "name": "Ekedalen",
+    "description": "meja dan 4 kursi, cokelat tua/Orrsta abu-abu muda, 120/180 cm",
+    "price": 8780000,
+    "stock": 9,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/377/0737704_PE741220_S3.webp",
+    "categoryId": 3,
+    "authorId": 1
+    },
+     {      
+    "id": 13,
+    "name": "Veladen",
+    "description": "meja dan 4 kursi, cokelat tua/Orrsta abu-abu muda, 120/180 cm",
+    "price": 8200000,
+    "stock": 3,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/376/0737693_PE741213_S3.webp",
+    "categoryId": 3,
+    "authorId": 2
+    },
+     {      
+    "id": 14,
+    "name": "Ekedalen",
+    "description": "meja dan 4 kursi, cokelat tua/Orrsta abu-abu muda, 120/180 cm",
+    "price": 8780000,
+    "stock": 9,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/377/0737704_PE741220_S3.webp",
+    "categoryId": 3,
+    "authorId": 2
+    },
+     {      
+    "id": 15,
+    "name": "Norryard",
+    "description": "meja dan 6 kursi, akasia/hitam, 235x100 cm, comfort, good for livingroom",
+    "price": 18780000,
+    "stock": 8,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/491/0549135_PE657574_S3.webp",
+    "categoryId": 3,
+    "authorId": 3
+    },
+     {      
+    "id": 16,
+    "name": "Gerdie",
+    "description": "mcushion, white/black cat, 40x40 cm, best quality",
+    "price": 189800,
+    "stock": 21,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/639/0563921_PE664006_S3.webp",
+    "categoryId": 3,
+    "authorId": 3
+    },
+     {      
+    "id": 17,
+    "name": "Korralbuske",
+    "description": "cushion cover, anthracite beige/stripe pattern, 50x50 cm",
+    "price": 120000,
+    "stock": 20,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/384/1138438_PE879963_S3.webp",
+    "categoryId": 3,
+    "authorId": 1
+    },
+     {      
+    "id": 18,
+    "name": "Sanela",
+    "description": "cushion cover, dark blue, 50x50 cm, like sugar brown",
+    "price": 56000,
+    "stock": 35,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/002/0600213_PE678602_S3.webp",
+    "categoryId": 3,
+    "authorId": 1
+    },
+     {      
+    "id": 19,
+    "name": "Karklekgras",
+    "description": "cushion, grey, 40x40 cm, best quality, limited edition",
+    "price": 44700,
+    "stock": 30,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/638/0963824_PE808765_S3.webp",
+    "categoryId": 3,
+    "authorId": 2
+    },
+     {      
+    "id": 20,
+    "name": "Trevnad",
+    "description": "cushion, light blue, 50x50 cm. comfort and limitied edition",
+    "price": 78800,
+    "stock": 34,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/903/0590332_PE673823_S3.webp",
+    "categoryId": 3,
+    "authorId": 2
+    }
+
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "username" : "farel",
+        "email": "farel@yahoo.com",
+        "password": "12345678",
+        "role": "admin",
+        "phoneNumber": "0812364862",
+        "address": "jl. timah raya"
+    },
+    {
+        "username" : "alip",
+        "email": "alip@yahoo.com",
+        "password": "12345678",
+        "role": "admin",
+        "phoneNumber": "0817734862",
+        "address": "jl. rimbun barat"
+    },
+    {
+        "username" : "rahman",
+         "email": "rahman@yahoo.com",
+         "password": "12345678",
+         "phoneNumber": "0819474538",
+         "address": "jl. bekasi barat"
+    },
+    {
+        "username" : "farah",
+        "email": "farah@yahoo.com",
+        "password": "12345678",
+        "phoneNumber": "08173845482",
+        "address": "jl. madu merah"
+    }
+]
