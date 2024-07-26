@@ -4,6 +4,10 @@
 
 > Tuliskan API Docs kamu di sini
 
+# LINK DEPLOY SERVER : 
+
+- https://gc1server.cbasic.my.id/
+
 # Product API Documentation
 
 ## Endpoints :
