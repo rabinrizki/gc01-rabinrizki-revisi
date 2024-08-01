@@ -26,12 +26,12 @@ router.get("/products/:id", Controller.getDetailProduct);
 router.post("/add/category", Controller.createCategory);
 router.get("/categories", Controller.getAllCategory);
 router.get("/categories/:id", Controller.getDetailCategory);
-router.put("/categories/:id", Controller.updateCategory);
-router.delete("/categories/:id", Controller.deleteCategory);
-router.put("/categories/:id", Controller.updateCategory)
+// router.put("/categories/:id", Controller.updateCategory)
 
 router.put("/products/:id", authorization, Controller.updateProduct);
 router.delete("/products/:id", authorization, Controller.deleteProduct);
+router.delete("/categories/:id", authorization ,Controller.deleteCategory);
+router.put("/categories/:id", authorization,Controller.updateCategory);
 router.patch(
     "/products/:id/img",
     authorization,
