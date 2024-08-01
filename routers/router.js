@@ -19,7 +19,7 @@ router.post("/login", Controller.login);
 router.get("/pub/products/:id", Controller.getDetailProductPublic);
 
 router.use(authentication);
-router.post("/products", Controller.createProduct);
+router.post("/add/product", Controller.createProduct);
 router.get("/products", Controller.getAllProduct);
 router.get("/products/:id", Controller.getDetailProduct);
 

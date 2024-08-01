@@ -14,12 +14,12 @@
 
 ### List of available endpoints:
 
--   POST /products
+-   POST /add/product
 -   GET /products
 -   GET /products/:id
 -   PUT /products/:id
 -   DELETE /products/:id
--   POST /categories
+-   POST /add/category
 -   GET /categories
 -   GET /categories/id
 -   PUT /categories/:id
@@ -30,7 +30,7 @@
 
 # link: server.cbasic.my.id
 
-# POST /products
+# POST /add/product
 
 ### Description:
 
@@ -343,7 +343,7 @@ OR
 ```
 
 
-# POST /categories
+# POST /add/category
 
 ### Description:
 
