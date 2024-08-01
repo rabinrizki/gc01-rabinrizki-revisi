@@ -23,7 +23,7 @@ router.post("/products", Controller.createProduct);
 router.get("/products", Controller.getAllProduct);
 router.get("/products/:id", Controller.getDetailProduct);
 
-router.post("/categories", Controller.createCategory);
+router.post("/add/category", Controller.createCategory);
 router.get("/categories", Controller.getAllCategory);
 router.get("/categories/:id", Controller.getDetailCategory);
 router.put("/categories/:id", Controller.updateCategory);
